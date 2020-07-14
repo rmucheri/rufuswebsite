@@ -1,0 +1,137 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  background-color: #edf7fa;
+}
+
+.top-container {
+  background-color: #edf7fa;
+  padding-top: 100px;
+  position: relative;
+  padding-bottom: 50px;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  color: #66BFBF;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+.intro {
+ color: #40514E;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 500px;
+  top: 50px;
+}
+
+.bottom-cloud{
+  position: absolute;
+  left: 550px;
+  bottom: 350px;
+}
+
+.code {
+  float: left;
+  border-radius: 10%;
+  padding-right: 50px;
+}
+
+.tech {
+  float: right;
+  border-radius: 10%;
+  padding-left: 50px;
+}
+
+.nerd, .code, .tech {
+  width: 25%;
+  border-radius: 10%;
+}
+
+a {
+  color: #11999E;
+}
+
+h2 p {
+  font-weight: normal;
+}
+
+.skills {
+  padding: 30px;
+  padding-bottom: 0;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+  padding: 30px;
+}
+.footer-link {
+  padding: 10px;
+  position: relative;
+  top: 50px;
+  line-height: 2;
+}
+.contact-me {
+  margin-top: 10px;
+  padding-bottom: 30px;
+  margin-bottom: 20px;
+  line-height: 2;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  height: 150px;
+  padding: 30px;
+}
+.copyright {
+  color: white;
+  position: relative;
+  top: 50px;
+  }
+
+  .testbutton {
+  font-family: verdana;
+  color: #FFFFFF !important;
+  font-size: 21px;
+  text-shadow: 0px 1px 0px #FFFFFF;
+  box-shadow: 2px 1px 0px #66BFBF;
+  padding: 12px 29px;
+  -moz-border-radius: 13px;
+  -webkit-border-radius: 13px;
+  border-radius: 13px;
+  border: 2px solid #ffffff;
+  background: #66BFBF;
+  text-decoration: none;
+}
+.testbutton:hover {
+  color: #FFFFFF !important;
+  background: #66BFBF;
+}
+
+.divide {
+  top: -20px;
+  position: relative;
+  margin-top: 75px;
+  width: 50px;
+  border-style: dotted none none;
+  border-color: grey;
+  border-width: 5px;
+}
