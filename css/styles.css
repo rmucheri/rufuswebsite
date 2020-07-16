@@ -32,6 +32,8 @@ h3 {
 
 .intro {
  color: #40514E;
+ line-height: 1.6;
+ font-family: 'Montserrat', sans-serif;
 }
 
 .top-cloud {
@@ -58,9 +60,12 @@ h3 {
   padding-left: 50px;
 }
 
-.nerd, .code, .tech {
-  width: 25%;
+.code, .tech {
+  width: 30%;
   border-radius: 10%;
+}
+.nerd {
+  width: 15%;
 }
 
 a {
@@ -80,8 +85,9 @@ h2 p {
   width: 50%;
   margin: 100px auto 100px auto;
   text-align: left;
-  line-height: 2;
+  line-height: 1.6;
   padding: 30px;
+  font-family: 'Montserrat', serif;
 }
 .footer-link {
   padding: 10px;
